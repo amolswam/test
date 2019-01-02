@@ -1,0 +1,52 @@
+Hello All,
+
+
+Please Stop All Activity On Bellow Servers.
+
+10.20.201.159
+
+10.20.201.241
+
+10.20.201.105
+
+10.20.201.96
+
+10.20.201.84
+
+
+If we found any Activity Running on any server we will not Restart this Restart the Server. 
+
+
+
+
+Hello All,
+
+Following Servers will Restart Within 15 min.
+
+10.20.201.159
+
+10.20.201.241
+
+10.20.201.105
+
+10.20.201.96
+
+10.20.201.84
+
+Kindly Stop All activity.
+
+
+
+Hello All,
+
+Bellow Servers Are Up and Running.
+
+10.20.201.159
+
+10.20.201.241
+
+10.20.201.105
+
+10.20.201.96
+
+10.20.201.84
